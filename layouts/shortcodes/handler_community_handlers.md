@@ -28,7 +28,7 @@ community:
 <tr>
 <td><a href="https://github.com/DataDog/chef-handler-datadog">Datadog</a></td>
 <td>A handler that collects Chef Infra Client stats and sends them into a Datadog newsfeed.</td>
-</tr>
+</tr> 
 <tr>
 <td><a href="https://github.com/mmarschall/chef-handler-flowdock">Flowdock</a></td>
 <td>A handler that collects exception and report handler data and sends it to users using the Flowdock API..</td>
@@ -60,6 +60,10 @@ community:
 <tr>
 <td><a href="https://github.com/b1-systems/chef-handler-httpapi/">net/http</a></td>
 <td>A handler that reports the status of a Chef run to any API using net/HTTP.</td>
+</tr>
+<tr>
+<td><a href="https://newrelic.com/instant-observability/chef/ad40ccc2-f7ef-44bf-b961-07813088fce0">New Relic</a></td>
+<td>A handler that collects Chef Infra Client stats and sends them into a New Relic newsfeed.</td>
 </tr>
 <tr>
 <td><a href="https://rubygems.org/gems/chef-handler-mail">Simple Email</a></td>
